@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+  <head>
+    {% include "meta.njk" ignore missing %}
+    {# CSSのパスを変えるとgulpfile.js、.eleventy.jsも変更が必要 #}
+    {# <link rel="stylesheet" href="/assets/css/s.css" /> #}
+    <link rel="stylesheet" href="https://tatsufumi.github.io/wedding/assets/css/s.css" />
+  </head>
+      <div id="contents" class="contents">
+        {{ content | safe }}
+      </div>
+    
+</html>
