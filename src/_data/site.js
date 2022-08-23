@@ -4,7 +4,7 @@ module.exports = {
   // トップページのみ付与される簡易的な説明文
   catch: "",
   // meta description
-  description: "たつふみとふたばの結婚式web招待状です。",
+  description: "This is Tatsufumi and Futaba's wedding website.",
   // URL（最後の / は含めない）
   url: "https://tatsufumi.github.io/wedding",
   // 文字コード
