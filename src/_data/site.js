@@ -4,7 +4,7 @@ module.exports = {
   // トップページのみ付与される簡易的な説明文
   catch: "",
   // meta description
-  description: "佐藤樹史と大熊二葉の挙式/披露宴のweb招待状です。",
+  description: "佐藤樹史と大熊二葉の挙式/披露宴の招待状です。",
   // URL（最後の / は含めない）
   url: "https://tatsufumi.github.io/wedding",
   // 文字コード
