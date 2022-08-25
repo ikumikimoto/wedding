@@ -1,10 +1,10 @@
 module.exports = {
   // サイト名
-  title: "Tatsufumi and Futaba's Wedding",
+  title: "Tatsufumi and Futaba's Wedding Celemony",
   // トップページのみ付与される簡易的な説明文
   catch: "",
   // meta description
-  description: "This is Tatsufumi and Futaba's wedding website.",
+  description: "佐藤樹史と大熊二葉の挙式/披露宴のweb招待状です。",
   // URL（最後の / は含めない）
   url: "https://tatsufumi.github.io/wedding",
   // 文字コード
